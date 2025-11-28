@@ -1,0 +1,5 @@
+{
+  "name": "Process Map Studio",
+  "description": "A professional Process Map management tool supporting Unit Processes, Groups, Roles, and Flow logic with SVG visualization.",
+  "requestFramePermissions": []
+}
